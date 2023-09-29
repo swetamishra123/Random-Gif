@@ -67,4 +67,4 @@ Using the Gif Generator is straightforward:
 Contributions to this project are welcome! If you'd like to contribute.
 
 ## License
-This project is licensed under the [MIT License](MIT License).
+This project is licensed under the 'MIT License'.
