@@ -1,7 +1,5 @@
 # Gif Generator
 
-Welcome to the Gif Generator application! This web application allows you to fetch and display random GIFs from the Giphy API. You can generate GIFs with a single click or search for GIFs based on specific tags.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
