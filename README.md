@@ -1,4 +1,3 @@
-# Gif Generator
 
 ## Table of Contents
 
