@@ -16,7 +16,7 @@ The Gif Generator is a React-based web application that leverages the Giphy API 
 
 ## Demo
 
-You can experience the live demo of the Gif Generator at [https://sweta-gif-genrator.netlify.app/](https://sweta-gif-genrator.netlify.app/).
+You can experience the live demo of the Gif Generator at [https://sweta-gif-genrator.netlify.app/](https://random-gif-theta.vercel.app/).
 
 ## Features
 
